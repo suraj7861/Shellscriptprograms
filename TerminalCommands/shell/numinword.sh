@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo"Number"
 echo "enter a num"
 read n
 
@@ -24,3 +24,4 @@ then
 else
 		echo "Enter the no between 0 to 5 "
 fi
+echo "finish"
